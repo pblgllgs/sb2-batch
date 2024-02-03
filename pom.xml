@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.pblgllgs</groupId>
-	<artifactId>batch</artifactId>
+	<artifactId>sb2-batch-tasklet</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sb2-batch</name>
-	<description>sb2-batch</description>
+	<name>sb2-batch-tasklet</name>
+	<description>sb2-batch-tasklet</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
